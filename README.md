@@ -60,18 +60,7 @@ priya = {
 - 🥇 **1st Place** — Blind Code competitive programming event @ PSIT
 - ⭐ **5-Star C** & **4-Star Problem Solving** on HackerRank
 - 💻 **100+ problems** solved on LeetCode
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Priya220105&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priya220105&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA" height="165"/>
-
-</div>
-
+  
 ---
 
 ## 📬 Let's Connect
