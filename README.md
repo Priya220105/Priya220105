@@ -9,7 +9,6 @@
 ---
 
 ## 🧠 About Me
-
 ```python
 priya = {
     "name"        : "Priya Singh",
@@ -22,22 +21,25 @@ priya = {
     "fun_fact"    : "I made an AI that reads hands — next stop, reading minds 👀"
 }
 ```
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Priya220105&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priya220105&layout=compact&theme=tokyonight&hide_border=true&hide=typescript,jupyter%20notebook,nix,css" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priya220105&layout=compact&theme=tokyonight&hide_border=true&hide=typescript,nix,shell" height="160"/>
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Priya220105&theme=tokyonight&hide_border=true"/>
-</p>---
+</p>
+
+---
 
 ## 🚀 Featured Projects
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🤟 **SanketAI** | AI-powered sign language learning platform for Bharat | Python, TensorFlow Lite, MediaPipe |
-| 🔔 **Notify** | Chrome extension with AI-powered focus & productivity tools | JavaScript, Chrome APIs |
-| ✅ **TaskTender** | Smart task management web app | HTML, CSS, JS |
-| 📚 **llmware** | Enterprise RAG pipeline framework (fork + contributions) | Python |
+| 🔥 SanketAI | AI-powered sign language learning platform for Bharat | Python, TensorFlow Lite, MediaPipe |
+| 🔔 Notify | Chrome extension with AI-powered focus & productivity tools | JavaScript, Chrome APIs |
+| ✅ TaskTender | Smart task management web app | HTML, CSS, JS |
+| 🤖 ai-api-projects | Hands-on Anthropic/Claude API projects — chat, RAG, agents & more | Python, Jupyter Notebooks |
 
 ---
 
@@ -65,7 +67,7 @@ priya = {
 - 🥇 **1st Place** — Blind Code competitive programming event @ PSIT
 - ⭐ **5-Star C** & **4-Star Problem Solving** on HackerRank
 - 💻 **100+ problems** solved on LeetCode
-  
+
 ---
 
 ## 📬 Let's Connect
