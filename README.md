@@ -22,7 +22,13 @@ priya = {
     "fun_fact"    : "I made an AI that reads hands — next stop, reading minds 👀"
 }
 ```
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Priya220105&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priya220105&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Priya220105&theme=tokyonight&hide_border=true"/>
+</p>
 ---
 
 ## 🚀 Featured Projects
