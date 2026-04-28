@@ -26,9 +26,6 @@ priya = {
   <img src="https://github-readme-stats.vercel.app/api?username=Priya220105&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priya220105&layout=compact&theme=tokyonight&hide_border=true&hide=typescript,nix,shell" height="160"/>
 </p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Priya220105&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 
