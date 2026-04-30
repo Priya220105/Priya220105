@@ -33,10 +33,11 @@ priya = {
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🔥 SanketAI | AI-powered sign language learning platform for Bharat | Python, TensorFlow Lite, MediaPipe |
-| 🔔 Notify | Chrome extension with AI-powered focus & productivity tools | JavaScript, Chrome APIs |
-| ✅ TaskTender | Smart task management web app | HTML, CSS, JS |
-| 🤖 ai-api-projects | Hands-on Anthropic/Claude API projects — chat, RAG, agents & more | Python, Jupyter Notebooks |
+| 🔥 [SanketAI](https://github.com/Priya220105/SanketAI) | AI-powered sign language learning platform for Bharat | Python, TensorFlow Lite, MediaPipe |
+| 📄 [MCP Document System](https://github.com/Priya220105/mcp-document-system) | MCP server for document processing with tools, resources & LLM-powered queries | Python, MCP, OpenRouter |
+| 🔔 [Notify](https://github.com/Priya220105/Notify) | Chrome extension with AI-powered focus & productivity tools | JavaScript, Chrome APIs |
+| ✅ [TaskTender](https://github.com/Priya220105/TaskTender) | Smart task management web app | HTML, CSS, JS |
+| 🤖 [ai-api-projects](https://github.com/Priya220105/ai-api-projects) | Hands-on Anthropic/Claude API projects — chat, RAG, agents & more | Python, Jupyter Notebooks |
 
 ---
 
