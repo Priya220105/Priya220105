@@ -64,7 +64,7 @@ priya = {
 - 🥇 **Top 50 Contributor** — IEEE Summer of Code 2025
 - 🥇 **1st Place** — Blind Code competitive programming event @ PSIT
 - ⭐ **5-Star C** & **4-Star Problem Solving** on HackerRank
-- 💻 **100+ problems** solved on LeetCode
+- 💻 **200+ problems** solved on LeetCode
 
 ---
 
